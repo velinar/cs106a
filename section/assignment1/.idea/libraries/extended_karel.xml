@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="extended-karel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib/extended-karel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../lib/extended-karel.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../extended-karel/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
